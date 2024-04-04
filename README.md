@@ -16,6 +16,7 @@
   </a>
 </div>
 
+
   <h2>Languages and Tools:</h2>
 <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="50px"/> Here are some of the technologies I'm currently exploring:
 <div>
@@ -32,4 +33,5 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="github" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" width="50" height="50"/>
 </div>
+<div><a href="https://www.codewars.com/users/olhaizbash"><img src="https://www.codewars.com/users/olhaizbash/badges/small"></a></div>
 </div>
